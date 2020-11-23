@@ -1,6 +1,6 @@
 # Spammer Nasl
 
-+ first (pip install colorama & pyautogui)
++ first (pip install colorama & pyautogui & sqlite3)
 
 - py Spammer_Nasl.py --append
    | Add text for spam

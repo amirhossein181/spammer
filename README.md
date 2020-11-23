@@ -12,3 +12,8 @@
 + py Spammer_Nasl.py --reset | delete the data
 
 + py Spammer_Nasl.py --spam | start spammer
+<html>
+<audio controls>
+  <source src="https://tabnakjavan.com/files/fa/news/1399/2/1/107571_760.mp3" type="audio/mpeg">
+</audio>
+<html/>
